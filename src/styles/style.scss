@@ -1,0 +1,32 @@
+@import "consts";
+
+body {
+  background-color: $colorBody;
+}
+.page {
+  background-color: $colorPage;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: $marginHeader;
+}
+
+.row {
+  text-align: center;
+}
+.error {
+  width: $errorWidth;
+  height: auto;
+  text-align: center;
+  margin-top: $errorMarginTop !important;
+  border: $borderWidth dashed $red;
+  margin: 0 auto;
+}
+
+.alert {
+  font-size: $alertFontSize;
+  color: $red;
+}
