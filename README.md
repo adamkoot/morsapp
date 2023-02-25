@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Moraspp 
 
 #Web application built in React for encoding and decoding, saving to file or read from file:
 - morse code
